@@ -1,12 +1,8 @@
 ---
-title: "GEE for multilevel data"
-output:
-  html_document:
-    df_print: paged
-    keep_md: true
+GEE for multilevel data
 ---
 
-This is a breif intorduction using GEE on simulation data as an example.
+This is a brief intorduction using GEE on simulation data as an example.
 
 ## generating simulation data
 

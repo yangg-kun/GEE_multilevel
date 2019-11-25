@@ -144,7 +144,6 @@ cbind(real = theta_real,
 a comparison to linear regression
 ```{r, results='hold'}
 lm_solve <- function(df){
-  df <- sdata$V
   lm.outs <- list()
   for(i in 2:dim(df)[2])
   {
